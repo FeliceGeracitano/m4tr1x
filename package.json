@@ -1,17 +1,15 @@
 {
   "name": "m4tr1x",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Enter the matrix running `npx m4tr1x`",
   "main": "index.js",
   "bin": {
-    "thematrix": "./bin/m4tr1x.js"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "m4tr1x": "./bin/m4tr1x.js"
   },
   "keywords": [
     "matrix",
-    "the-matrix"
+    "the-matrix",
+    "m4tr1x"
   ],
   "repository": {
     "url": "https://github.com/FeliceGeracitano/m4tr1x"
