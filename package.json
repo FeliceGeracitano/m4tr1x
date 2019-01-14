@@ -1,6 +1,6 @@
 {
   "name": "m4tr1x",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Enter the matrix running `npx m4tr1x`",
   "main": "index.js",
   "bin": {
